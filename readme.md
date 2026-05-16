@@ -58,3 +58,13 @@ Released under the MIT License. See `LICENSE` for details.
 ---
 
 _Part of [Fernando Azevedo's engineering portfolio](https://github.com/fernandofatech) — cloud architecture, serverless and developer productivity._
+
+## Portfolio / Portfólio
+
+- **Live / Ao vivo:** [Google Terminal Search](https://github.com/fernandofatech/google-terminal-search)
+- **GitHub:** [fernandofatech/google-terminal-search](https://github.com/fernandofatech/google-terminal-search)
+- **Author / Autor:** [Fernando Francisco Azevedo](https://fernando.moretes.com) · [LinkedIn](https://www.linkedin.com/in/fernando-francisco-azevedo/) · [GitHub](https://github.com/fernandofatech)
+
+**PT-BR:** CLI/search utility repository from Fernando Moretes portfolio. Este repositório público faz parte do ecossistema de portfólio de Fernando Moretes, com foco em arquitetura de soluções, AWS, IA, automação e boas práticas de engenharia.
+
+**EN:** CLI/search utility repository from Fernando Moretes portfolio. This public repository is part of Fernando Moretes' portfolio ecosystem, focused on solution architecture, AWS, AI, automation, and pragmatic engineering practices.
